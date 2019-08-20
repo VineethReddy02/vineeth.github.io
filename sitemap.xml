@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://vineethweb.com/about/</loc>
+    <lastmod>2015-07-28T09:51:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/</loc>
+    <lastmod>2015-07-28T09:51:51-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/post/docker-instructions/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/post/intro-to-k8s/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/post/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/tags/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/tags/docker/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/tags/kubernetes/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vineethweb.com/tutorials/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
